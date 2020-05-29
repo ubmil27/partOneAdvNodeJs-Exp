@@ -1,0 +1,2 @@
+SESSION_SECRET=SOMERANDOM
+DATABASE='mongodb+srv://<username>:<password>@cluster0-vxe9j.mongodb.net/test?retryWrites=true&w=majority'
